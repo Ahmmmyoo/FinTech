@@ -1,0 +1,16 @@
+
+### Files to exclude from when a docker image is being created...
+
+node_modules
+build
+.DS_Store
+.env
+.git
+.gitignore
+Dockerfile
+docker-compose.yml
+README.md
+
+npm-debug.log
+.dockerignore
+dist
